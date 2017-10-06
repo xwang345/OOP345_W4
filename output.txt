@@ -1,57 +1,5 @@
-Script started on Fri 06 Oct 2017 02:19:47 AM EDT
-xwang345@matrix:~/OOP345/OOP345_W4> ws
-
-Inventory
-=========
-Product : Pizza
-Price : 4.49
-Product : Pierogi
-Price : 2.56
-Product : Potato Chips
-Price : 2.29
-Product : Black Tea
-Price : 4.49
-Product : Green Tea
-Price : 3.46
-Product : Fruit Tea
-Price : 2.29
-Product : quit
-
-Price List
-----------
-        Pizza : 4.49
-      Pierogi : 2.56
- Potato Chips : 2.29
-    Black Tea : 4.49
-    Green Tea : 3.46
-
-Corrections
------------
-Product : Black Tea
-Price : 5.29
-Product : quit
-
-Price List
-----------
-        Pizza : 4.49
-      Pierogi : 2.56
- Potato Chips : 2.29
-    Black Tea : 5.29
-    Green Tea : 3.46
-
-Glossary
-========
-Key : CPU
-Definition : central processing unit
-Key : ALU
-Definition : arithmetic logic unit
-Key : quit
-
-Entries
--------
-  CPU : central processing unit
-  ALU : arithmetic logic unit
+Script started on Fri 06 Oct 2017 09:04:36 AM EDT
 xwang345@matrix:~/OOP345/OOP345_W4> exit
 exit
 
-Script done on Fri 06 Oct 2017 02:21:43 AM EDT
+Script done on Fri 06 Oct 2017 09:04:38 AM EDT

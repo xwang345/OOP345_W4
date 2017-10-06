@@ -4,19 +4,18 @@
 
 #ifndef W4_KVLIST_H
 #define W4_KVLIST_H
-#pragma once
+//#pragma once
 #include <iostream>
 
 
 template<typename K, typename V, int N>
 class KVList {
-private:
 	struct Table{
 		K key;
 		V value;
 	}table[N];
 
-	size_t listSize = 0;
+	size_t listSize;
 public:
 
 
