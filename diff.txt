@@ -1,10 +1,10 @@
 
-In line number 3 of your output:
+In line number 47 of your output:
 The output should be:
-
+Definition : arithmetic logic unit
 But your output is: 
-exit
-^
-|
-Professor's character ASCII code: hex(d), dec(13)
-un-matched character ASCII code: hex(65), dec(101)
+Definition : arthmetic logic unit
+               ^
+---------------|
+Professor's character ASCII code: hex(69), dec(105)
+un-matched character ASCII code: hex(74), dec(116)
