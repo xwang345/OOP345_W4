@@ -1,0 +1,11 @@
+A template is a tool that supports parametric polymorphism in C ++. A template allows a user to declare a generic pattern for a class or function, making it possible for any data member or member function to get any type of return value.
+
+A template is a tool for parameterizing a type;
+
+There are usually two forms: function templates and class templates;
+
+Function templates for functions with different parameter types;
+
+The class template is for classes that have different data member and member function types.
+
+The purpose of using templates is to allow programmers to write code that is not related to the type. For example, the preparation of a swap two int type swap function, this function can only achieve int type, pairs of characters, these types can not be achieved, to achieve these types of exchange will re-write another exchange function. The purpose of using the template is to make the implementation of this program has nothing to do with the type, such as a swap template function, you can achieve int type, but also to achieve dual-type exchange. Can be applied to functions and classes. The following are introduced separately.
